@@ -1,0 +1,10 @@
+body{
+	font-family: 'Imprima', sans-serif;
+		
+	background-image: url("images/dreamcafewrapper.png"), url("images/bgimage.jpg");
+	background-position: 50% 50%, 100% 100%;
+	background-repeat: no-repeat, repeat;
+	background-size: 95%,25%
+		
+}	
+a{color:#ffcce6}
